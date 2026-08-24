@@ -61,7 +61,7 @@
 
 ---
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathanadeldev&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanadeldev" alt="GitHub Streak" height="165"/>
 </p>
@@ -71,7 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanadeldev&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
---- -->
+---
 
 ### 🌱 Currently Learning
 
@@ -94,4 +94,4 @@ Systems programming (CS:APP), advanced data structures & algorithms, PostgreSQL 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanadel/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathanadel878@gmail.com)
 
-<!-- <p align="center"><i>Building real products, not just tutorials.</i></p> -->
+<p align="center"><i>Building real products, not just tutorials.</i></p>
