@@ -26,7 +26,6 @@
 - 💻 Freelance full-stack developer specializing in **MERN/PERN**, **Next.js**, and **React Native**
 - 📚 Following a structured 3-year self-study roadmap covering systems programming, databases, networking, and distributed systems
 - 🌍 Based in Cairo, Egypt — targeting competitive Master's programs (ETH Zurich, TU Delft, KTH, TU Munich, EPFL)
-- 📌 Primary work is hosted on **GitLab** while a flag on my GitHub account is resolved — my GitHub profile is still linked below for reference
 
 ---
 
@@ -59,7 +58,7 @@
 | **[qodum-app](https://gitlab.com/jonathanadeldev/qodum-mobile)** | React Native companion app for Qodum ERP | React Native | — |
 | **[Learnova](https://gitlab.com/jonathanadeldev/learnova)** *(in progress)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
 
----
+<!-- ---
 
 ### 📊 GitHub Stats
 
@@ -70,7 +69,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanadeldev&layout=compact" alt="Top Languages" height="165"/>
-</p>
+</p> -->
 
 ---
 
