@@ -54,9 +54,9 @@
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| **[qodum-web](https://gitlab.com/jonathanadeldev/qodum-web)** | Production school ERP system (web), 600+ commits | Next.js, MongoDB | [Live ↗](https://qodum.vercel.app/) |
-| **[qodum-app](https://gitlab.com/jonathanadeldev/qodum-mobile)** | React Native companion app for Qodum ERP | React Native | — |
-| **[Learnova](https://gitlab.com/jonathanadeldev/learnova)** *(in progress)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
+| **[qodum-web](https://github.com/jonathanadeldev/qodum-web)** | Production school ERP system (web), 600+ commits | Next.js, MongoDB | [Live ↗](https://qodum.vercel.app/) |
+| **[qodum-app](https://github.com/jonathanadeldev/qodum-app)** | React Native companion app for Qodum ERP | React Native | — |
+| **[Learnova](https://github.com/jonathanadeldev/learnova)** *(in progress)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
 
 <!-- ---
 
