@@ -58,17 +58,17 @@
 | **[qodum-app](https://github.com/jonathanadel-dev/qodum-app)** | React Native companion app for Qodum ERP | React Native | — |
 | **[Learnova](https://github.com/jonathanadel-dev/learnova)** *(in progress)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
 
-<!-- ---
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanadel-dev&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jonathan929-del&show_icons=true&theme=default" alt="GitHub Stats" height="165"/> -->
   <img src="https://streak-stats.demolab.com?user=jonathanadel-dev" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanadel-dev&layout=compact" alt="Top Languages" height="165"/>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan929-del&layout=compact" alt="Top Languages" height="165"/>
 </p> -->
 
 ---
