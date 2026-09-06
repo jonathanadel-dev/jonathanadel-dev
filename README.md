@@ -1,4 +1,4 @@
-<!-- jonathanadeldev/README.md -->
+<!-- jonathanadel-dev/README.md -->
 
 <h1 align="center">Hi, I'm Jonathan 👋</h1>
 <h3 align="center">Full-Stack Developer | CS Student @ Ain Shams University</h3>
@@ -54,21 +54,21 @@
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| **[qodum-web](https://github.com/jonathanadeldev/qodum-web)** | Production school ERP system (web), 600+ commits | Next.js, MongoDB | [Live ↗](https://qodum.vercel.app/) |
-| **[qodum-app](https://github.com/jonathanadeldev/qodum-app)** | React Native companion app for Qodum ERP | React Native | — |
-| **[Learnova](https://github.com/jonathanadeldev/learnova)** *(in progress)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
+| **[qodum-web](https://github.com/jonathanadel-dev/qodum-web)** | Production school ERP system (web), 600+ commits | Next.js, MongoDB | [Live ↗](https://qodum.vercel.app/) |
+| **[qodum-app](https://github.com/jonathanadel-dev/qodum-app)** | React Native companion app for Qodum ERP | React Native | — |
+| **[Learnova](https://github.com/jonathanadel-dev/learnova)** *(in progress)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
 
 <!-- ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanadeldev&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=jonathanadeldev" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanadel-dev&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=jonathanadel-dev" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanadeldev&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanadel-dev&layout=compact" alt="Top Languages" height="165"/>
 </p> -->
 
 ---
