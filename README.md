@@ -1,6 +1,6 @@
 <!-- jonathanadel-dev/README.md -->
 
-<h1 align="center">Hi, I'm Jonathan 👋</h1>
+<h1 align="center">Hi, I'm Jonathan</h1>
 <h3 align="center">Full-Stack Developer | CS Student @ Ain Shams University</h3>
 
 <p align="center">
@@ -93,5 +93,3 @@ Systems programming (CS:APP), advanced data structures & algorithms, PostgreSQL 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanadel/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathanadel878@gmail.com)
-
-<p align="center"><i>Building real products, not just tutorials.</i></p>
