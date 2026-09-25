@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -45,8 +46,8 @@
 
 ### 🔨 Currently Working On
 
-- **Qodum — scalability & architecture fixes.** Qodum runs smoothly with a handful of students but degrades under real load (e.g. lag at ~1,000 concurrent students). I'm actively diagnosing and fixing the underlying architectural bottlenecks, along with a broader pass of scalability-related bugs across the system.
-- **Learnova** — building out a full-featured LMS from the ground up (Next.js, Tailwind, Prisma, PostgreSQL), currently past instructor onboarding and into the instructor dashboard UI.
+- **Qodum Web — MongoDB → PostgreSQL migration & architecture rework.** Qodum runs smoothly with a handful of students but degrades under real load (e.g. lag at ~1,000 concurrent students). I'm mid-migration off the original MongoDB schema onto a normalized PostgreSQL/Prisma setup, alongside converting the app's client-managed tab navigation into real Next.js routes and hardening server-side authorization across the app.
+- **Qodum Mobile — full rebuild.** Rebuilding the companion mobile app from scratch on the React Native CLI (bare workflow, TypeScript) — student admissions, job openings, fee tracking, and dashboard flows, with a fully custom UI (no component library). Currently wiring it up to the same Postgres backend the web app runs on.
 
 ---
 
@@ -54,9 +55,9 @@
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| **[qodum-web](https://github.com/jonathanadel-dev/qodum-web)** | Production school ERP system (web), 600+ commits | Next.js, MongoDB | [Live ↗](https://qodum.vercel.app/) |
-| **[qodum-mobile](https://github.com/jonathanadel-dev/qodum-mobile)** | React Native companion app for Qodum ERP | React Native | — |
-| **[Learnova](https://github.com/jonathanadel-dev/learnova)** *(in progress)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
+| **[qodum-web](https://github.com/jonathanadel-dev/qodum-web)** | Production school ERP system (web), 600+ commits | Next.js, PostgreSQL, Prisma, AWS | [Live ↗](https://qodum.vercel.app/) |
+| **[qodum-mobile](https://github.com/jonathanadel-dev/qodum-mobile)** | React Native companion app for Qodum ERP — admissions, fees, student dashboards | React Native (CLI), TypeScript | — |
+| **[Learnova](https://github.com/jonathanadel-dev/learnova)** *(on hold)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
 
 ---
 
