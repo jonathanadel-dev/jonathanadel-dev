@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Jonathan</h1>
 
-<h3 align="center">Full-Stack Developer | Web & Mobile</h3>
+<h3 align="center">Full-Stack Developer | PERN Stack & React Native</h3>
 
 <p align="center">
   I build reliable web and mobile applications with modern JavaScript/TypeScript technologies, from frontend interfaces to backend systems and databases.
