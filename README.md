@@ -1,10 +1,11 @@
 <!-- jonathanadel-dev/README.md -->
 
 <h1 align="center">Hi, I'm Jonathan</h1>
-<h3 align="center">Full-Stack Developer | CS Student @ Ain Shams University</h3>
+
+<h3 align="center">Full-Stack Developer | Web & Mobile</h3>
 
 <p align="center">
-  Building production-grade web & mobile apps with the MERN/PERN stack, Next.js, and React Native.
+  I build reliable web and mobile applications with modern JavaScript/TypeScript technologies, from frontend interfaces to backend systems and databases.
 </p>
 
 <p align="center">
@@ -21,16 +22,18 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 CS student at Ain Shams University, Faculty of Computer & Information Sciences
-- 💻 Freelance full-stack developer specializing in **MERN/PERN**, **Next.js**, and **React Native**
-- 📚 Following a structured 3-year self-study roadmap covering systems programming, databases, networking, and distributed systems
-- 🌍 Based in Cairo, Egypt — targeting competitive Master's programs (ETH Zurich, TU Delft, KTH, TU Munich, EPFL)
+* 💻 Full-stack developer focused on building real-world web and mobile applications
+* 🏗️ Experienced across frontend, backend, databases, authentication, APIs, and cloud services
+* ⚙️ Comfortable working with both established codebases and projects built from the ground up
+* 📈 Interested in performance, scalability, clean architecture, and maintainable systems
+* 📚 Constantly expanding my knowledge of computer science, systems, databases, networking, and distributed systems
+* 🌍 Based in Cairo, Egypt — available for freelance and remote opportunities
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript, C++, Java
 
@@ -38,59 +41,87 @@
 
 **Backend:** Node.js, Express
 
-**Databases:** PostgreSQL, MongoDB, Prisma (ORM)
+**Databases:** PostgreSQL, MongoDB, Prisma
 
-**Cloud & Tools:** AWS (S3), Firebase, Docker, Git
+**Cloud & Infrastructure:** AWS, Firebase, Docker
 
----
-
-### 🔨 Currently Working On
-
-- **Qodum Web — MongoDB → PostgreSQL migration & architecture rework.** Qodum runs smoothly with a handful of students but degrades under real load (e.g. lag at ~1,000 concurrent students). I'm mid-migration off the original MongoDB schema onto a normalized PostgreSQL/Prisma setup, alongside converting the app's client-managed tab navigation into real Next.js routes and hardening server-side authorization across the app.
-- **Qodum Mobile — full rebuild.** Rebuilding the companion mobile app from scratch on the React Native CLI (bare workflow, TypeScript) — student admissions, job openings, fee tracking, and dashboard flows, with a fully custom UI (no component library). Currently wiring it up to the same Postgres backend the web app runs on.
+**Tools:** Git, GitHub, REST APIs
 
 ---
 
-### 📌 Featured Projects
+## 🔨 Currently Working On
 
-| Project | Description | Stack | Demo |
-|---|---|---|---|
-| **[qodum-web](https://github.com/jonathanadel-dev/qodum-web)** | Production school ERP system (web), 600+ commits | Next.js, PostgreSQL, Prisma, AWS | [Live ↗](https://qodum.vercel.app/) |
-| **[qodum-mobile](https://github.com/jonathanadel-dev/qodum-mobile)** | React Native companion app for Qodum ERP — admissions, fees, student dashboards | React Native (CLI), TypeScript | — |
-| **[Learnova](https://github.com/jonathanadel-dev/learnova)** *(on hold)* | Full-featured LMS platform | Next.js, Tailwind, Prisma, PostgreSQL | [Live ↗](https://learnova-mvp.vercel.app/) |
+### Qodum Web
+
+A production school ERP system undergoing a major architecture and scalability upgrade.
+
+Currently migrating the application from MongoDB to a normalized PostgreSQL/Prisma architecture, replacing client-managed navigation with proper Next.js routing, and strengthening server-side authorization and application performance.
+
+### Qodum Mobile
+
+A full rebuild of the Qodum companion mobile application using React Native CLI and TypeScript.
+
+The app covers student admissions, job openings, fee tracking, and dashboard functionality while connecting to the same PostgreSQL backend used by the web application.
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
+
+| Project           | Description                                                                                                    | Stack                            | Demo   |
+| ----------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------ |
+| **Qodum Web**     | Production school ERP system with a large, actively developed codebase                                         | Next.js, PostgreSQL, Prisma, AWS | Live ↗ |
+| **Qodum Mobile**  | React Native companion app for admissions, fees, and student dashboards                                        | React Native, TypeScript         | —      |
+| **Gursha App**    | TikTok-inspired social media mobile application with video sharing, profiles, following, search, and messaging | React Native, Firebase, AWS      | —      |
+| **Gursha Server** | REST API backend powering the Gursha mobile application                                                        | Node.js, Express, MongoDB        | —      |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jonathan929-del&show_icons=true&theme=default" alt="GitHub Stats" height="165"/> -->
   <img src="https://streak-stats.demolab.com?user=jonathanadel-dev" alt="GitHub Streak" height="165"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan929-del&layout=compact" alt="Top Languages" height="165"/>
-</p> -->
+---
+
+## 🌱 Currently Learning
+
+Going deeper into the foundations behind the software I build:
+
+* Systems programming and computer architecture
+* Advanced data structures & algorithms
+* PostgreSQL internals and database design
+* Networking and distributed systems
+* Scalable backend architecture
+
+I believe strong software engineering comes from understanding both **how to build systems** and **why they work**.
 
 ---
 
-### 🌱 Currently Learning
+## 💼 Open To
 
-Systems programming (CS:APP), advanced data structures & algorithms, PostgreSQL internals, distributed systems fundamentals — following a structured multi-year roadmap toward production-scale backend engineering.
+I'm currently open to:
+
+* 💻 **Freelance projects**
+* 🤝 **Long-term client relationships**
+* 🏢 **Software engineering opportunities**
+* 🌍 **Remote work**
+
+Available for projects involving:
+
+![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square\&logo=upwork\&logoColor=white)
+![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square\&logo=fiverr\&logoColor=white)
+![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat-square\&logo=freelancer\&logoColor=white)
 
 ---
 
-### 💼 Open To
+## 📫 Connect
 
-**Internship opportunities**, as well as freelance work on:
-
-[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012362d0b618244385?mp_source=share)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/DBD86DA)
-[![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat-square&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/JonathanAdel98?frm=JonathanAdel98&sb=t)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)
+![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)
 
 ---
 
-### 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanadel/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathanadel878@gmail.com)
+<p align="center">
+  <i>Building software, learning continuously, and getting better at the fundamentals.</i>
+</p>
