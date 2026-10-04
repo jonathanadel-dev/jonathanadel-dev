@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi, I'm Jonathan</h1>
 
-<h3 align="center">Full-Stack Developer | PERN Stack & React Native</h3>
+<h3 align="center">Full-Stack Engineer for Data-Heavy & Scalable Web Applications</h3>
 
 <p align="center">
-  I build reliable web and mobile applications with modern JavaScript/TypeScript technologies, from frontend interfaces to backend systems and databases.
+  I build production web and mobile applications with a focus on backend architecture, databases, APIs, performance, and reliable systems.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-* 💻 Full-stack developer focused on building real-world web and mobile applications
+* 💻 Full-stack engineer focused on building real-world web and mobile applications
 * 🏗️ Experienced across frontend, backend, databases, authentication, APIs, and cloud services
 * ⚙️ Comfortable working with both established codebases and projects built from the ground up
 * 📈 Interested in performance, scalability, clean architecture, and maintainable systems
@@ -67,12 +67,12 @@ The app covers student admissions, job openings, fee tracking, and dashboard fun
 
 ## 📌 Featured Projects
 
-| Project           | Description                                                                                                    | Stack                            | Demo   |
-| ----------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------ |
-| **Qodum Web**     | Production school ERP system with a large, actively developed codebase                                         | Next.js, PostgreSQL, Prisma, AWS | Live ↗ |
-| **Qodum Mobile**  | React Native companion app for admissions, fees, and student dashboards                                        | React Native, TypeScript         | —      |
-| **Gursha App**    | TikTok-inspired social media mobile application with video sharing, profiles, following, search, and messaging | React Native, Firebase, AWS      | —      |
-| **Gursha Server** | REST API backend powering the Gursha mobile application                                                        | Node.js, Express, MongoDB        | —      |
+| Project                                                                | Description                                                                                                    | Stack                            | Demo                        |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
+| **[Qodum Web](https://github.com/jonathanadel-dev/qodum-web)**         | Production school ERP system with a large, actively developed codebase                                         | Next.js, PostgreSQL, Prisma, AWS | [Live ↗](https://qodum.com) |
+| **[Qodum Mobile](https://github.com/jonathanadel-dev/qodum-mobile)**   | React Native companion app for admissions, fees, and student dashboards                                        | React Native, TypeScript         | —                           |
+| **[Gursha App](https://github.com/jonathanadel-dev/gursha-app)**       | TikTok-inspired social media mobile application with video sharing, profiles, following, search, and messaging | React Native, Firebase, AWS      | —                           |
+| **[Gursha Server](https://github.com/jonathanadel-dev/gursha-server)** | REST API backend powering the Gursha mobile application                                                        | Node.js, Express, MongoDB        | —                           |
 
 ---
 
