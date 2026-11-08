@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack Engineer for Data-Heavy & Scalable Web Applications</h3>
 
 <p align="center">
-  I build production web and mobile applications with a focus on backend architecture, databases, APIs, performance, and reliable systems.
+  I build full-stack web and mobile applications with a focus on backend architecture, databases, APIs, performance, and reliable systems.
 </p>
 
 <p align="center">
@@ -53,26 +53,26 @@
 
 ### Qodum Web
 
-A production school ERP system undergoing a major architecture and scalability upgrade.
+A school ERP system I built for a client (600+ commits). It isn't currently running at any school, so I'm using it as a long-term engineering project: a major architecture and scalability overhaul, documented in an engineering log.
 
-Currently migrating the application from MongoDB to a normalized PostgreSQL/Prisma architecture, replacing client-managed navigation with proper Next.js routing, and strengthening server-side authorization and application performance.
+Currently migrating the application from MongoDB to a normalized PostgreSQL/Prisma architecture, replacing client-managed navigation with proper Next.js routing, and strengthening server-side authorization.
 
 ### Qodum Mobile
 
 A full rebuild of the Qodum companion mobile application using React Native CLI and TypeScript.
 
-The app covers student admissions, job openings, fee tracking, and dashboard functionality while connecting to the same PostgreSQL backend used by the web application.
+The screens for student admissions, job openings, fee tracking, and the dashboard are built. Backend integration is in progress, and the app will share the same PostgreSQL database as the web application.
 
 ---
 
 ## 📌 Featured Projects
 
-| Project                                                                | Description                                                                                                    | Stack                            | Demo                        |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- |
-| **[Qodum Web](https://github.com/jonathanadel-dev/qodum-web)**         | Production school ERP system with a large, actively developed codebase                                         | Next.js, PostgreSQL, Prisma, AWS | [Live ↗](https://qodum.com) |
-| **[Qodum Mobile](https://github.com/jonathanadel-dev/qodum-mobile)**   | React Native companion app for admissions, fees, and student dashboards                                        | React Native, TypeScript         | —                           |
-| **[Gursha App](https://github.com/jonathanadel-dev/gursha-app)**       | TikTok-inspired social media mobile application with video sharing, profiles, following, search, and messaging | React Native, Firebase, AWS      | —                           |
-| **[Gursha Server](https://github.com/jonathanadel-dev/gursha-server)** | REST API backend powering the Gursha mobile application                                                        | Node.js, Express, MongoDB        | —                           |
+| Project                                                                | Description                                                                                                    | Stack                            |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **[Qodum Web](https://github.com/jonathanadel-dev/qodum-web)**         | School ERP built for a client, with a large codebase (600+ commits) and an ongoing architecture overhaul       | Next.js, PostgreSQL, Prisma, AWS |
+| **[Qodum Mobile](https://github.com/jonathanadel-dev/qodum-mobile)**   | React Native companion app for admissions, fees, and student dashboards                                        | React Native, TypeScript         |
+| **[Gursha App](https://github.com/jonathanadel-dev/gursha-app)**       | TikTok-inspired social media mobile application with video sharing, profiles, following, search, and messaging | React Native, Firebase, AWS      |
+| **[Gursha Server](https://github.com/jonathanadel-dev/gursha-server)** | REST API backend powering the Gursha mobile application                                                        | Node.js, Express, MongoDB        |
 
 ---
 
@@ -107,18 +107,18 @@ I'm currently open to:
 * 🏢 **Software engineering opportunities**
 * 🌍 **Remote work**
 
-Available for projects involving:
+Find me on:
 
-![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square\&logo=upwork\&logoColor=white)
-![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square\&logo=fiverr\&logoColor=white)
-![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat-square\&logo=freelancer\&logoColor=white)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012362d0b618244385)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/9dGLmwa)
+[![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat-square&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/JonathanAdel98?frm=JonathanAdel98&sb=t)
 
 ---
 
 ## 📫 Connect
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)
-![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanadel)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathanadel98@gmail.com)
 
 ---
 
